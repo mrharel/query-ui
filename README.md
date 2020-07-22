@@ -11,4 +11,6 @@ In our example, let's say we want to extract search results from a google search
 Looking at the DOM structure, one might use the class `g` to query search results in the page, but that will provide additional elements which are not search results as we want. 
 
 
+notes to self: check in Warren dashboard how i can select one of the total revenue cubes...
+
 
